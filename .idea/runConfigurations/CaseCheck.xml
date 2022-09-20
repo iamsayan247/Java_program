@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CaseCheck" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Casecheck" />
+    <module name="First Java" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.kunal.*" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
